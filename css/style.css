@@ -326,6 +326,10 @@ margin-top: 60.8%;
 border-radius: 8px;
 background: #FFFFFF;
 }
+.book_space_content:hover{
+    margin-top: 50.8%;
+    transition: 1.5s;
+}
 .book_space_group h1{
 padding-top: 50px;
 font-size: 36px;
